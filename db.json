@@ -140,19 +140,5 @@
       "path": "/assets/images/thighs3.jpg",
       "saleID": 3
     }
-  ],
-  "cart": [
-    {
-      "id": 1,
-      "userID": 1
-    }
-  ],
-  "cartItem":[
-    {
-      "id":1,
-      "cartID":1,
-      "saleID":3
-    }
   ]
-
 }
