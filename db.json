@@ -1,0 +1,158 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Juan Perez",
+      "email": "jperez@gmail.com"
+    }
+  ],
+  "purchase": [
+    {
+      "id": 1,
+      "saleId": 1,
+      "exchanged": false,
+      "purchase_date": "08/10/2021",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "saleId": 3,
+      "exchanged": true,
+      "purchase_date": "10/10/2021",
+      "userId": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 5,
+      "name": "comercios",
+      "image":"/assets/images/background_restaurant.png"
+    },
+    {
+      "id": 1,
+      "name": "restaurantes",
+      "image":"/assets/images/background_restaurant.png"
+    },
+    {
+      "id": 3,
+      "name": "viajes",
+      "image":"/assets/images/background_restaurant.png"
+    },
+    {
+      "id": 2,
+      "name": "belleza",
+      "image":"/assets/images/background_restaurant.png"
+    },
+    {
+      "id": 4,
+      "name": "eventos",
+      "image":"/assets/images/background_restaurant.png"
+    },
+    {
+      "id": 6,
+      "name": "medicina",
+      "image":"/assets/images/background_restaurant.png"
+    }
+  ],
+  "sale": [
+    {
+      "id": 1,
+      "name": "RUN GRAPHIC 7/8 TIGHT W",
+      "price": 470,
+      "categoryID": 1,
+      "level": "plata",
+      "discount": 350,
+      "expiration": "04/10/2022",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptas neque dolore quasi explicabo dolorum saepe doloribus reiciendis est odit culpa, quisquam, quam et molestias! Illum dicta repudiandae porro maiores?",
+      "stock": 5,
+      "code": "6FC48A",
+      "image": "/assets/images/nike1.jpg"
+    },
+
+    {
+      "id": 2,
+      "name": "UA ZAP CHARGED PURSUIT 3 SE",
+      "price": 570,
+      "categoryID": 2,
+
+      "level": "oro",
+      "discount": 448,
+      "expiration": "10/10/2022",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptas neque dolore quasi explicabo dolorum saepe doloribus reiciendis est odit culpa, quisquam, quam et molestias! Illum dicta repudiandae porro maiores?",
+      "stock": 10,
+      "code": "6FC4A1",
+      "image":"/assets/images/jordan1.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "UA ZAP CHARGED PURSUIT 4 SE",
+      "price": 470,
+      "categoryID": 3,
+      "level": "bronce",
+      "discount": 350,
+      "expiration": "11/10/2022",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptas neque dolore quasi explicabo dolorum saepe doloribus reiciendis est odit culpa, quisquam, quam et molestias! Illum dicta repudiandae porro maiores?",
+      "stock": 7,
+      "code": "6FC4A2",
+      "image":"/assets/images/thighs1.jpg"
+    }
+  ],
+
+  "image": [
+    {
+      "id": 1,
+      "path": "/assets/images/nike1.jpg",
+      "saleID": 1
+    },
+    {
+      "id": 2,
+      "path": "/assets/images/nike2.jpg",
+      "saleID": 1
+    },
+    {
+      "id": 3,
+      "path": "/assets/images/nike3.jpg",
+      "saleID": 1
+    },
+    {
+      "id": 4,
+      "path": "/assets/images/jordan1.jpg",
+      "saleID": 2
+    },
+    {
+      "id": 5,
+      "path": "/assets/images/jordan2.jpg",
+      "saleID": 2
+    },
+    {
+      "id": 6,
+      "path": "/assets/images/thighs1.jpg",
+      "saleID": 3
+    },
+    {
+      "id": 7,
+      "path": "/assets/images/thighs2.jpg",
+      "saleID": 3
+    },
+    {
+      "id": 8,
+      "path": "/assets/images/thighs3.jpg",
+      "saleID": 3
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userID": 1
+    }
+  ],
+  "cartItem":[
+    {
+      "id":1,
+      "cartID":1,
+      "saleID":3
+    }
+  ]
+
+}
