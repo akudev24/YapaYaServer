@@ -79,17 +79,17 @@
 
     {
       "id": 2,
-      "name": 	"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-      "price": 570,
+      "name": 	"Esmaltes	Andreia	Andreia Professional NutriColor",
+      "price": 70,
       "categoryID": 2,
 
       "level": "oro",
-      "discount": 448,
+      "discount": 44,
       "expiration": "10/10/2022",
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "description": "Permeable al vapor / sin formaldehído, tolueno, DBP, resina de formaldehído, alcanfor, xileno, tosilamida de etilo, parabenos y acetona Cómo aplicar: 1. Limpie las uñas con limpiador. 2. Aplique 2 capas de NutriColor.",
       "stock": 10,
       "code": "6FC4A1",
-      "image":"https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      "image":"https://images-na.ssl-images-amazon.com/images/I/31p3qa8kAfL._.jpg"
     },
 
     {
@@ -131,6 +131,19 @@
       "code":"6DDBB7",
       "image":"https://images-na.ssl-images-amazon.com/images/I/41joydmJtYL._.jpg"
       
+    },
+    {
+      "id": 6,
+      "name";"Healifty honda del brazo antebrazo ergonómico transpirable codo ajustable",
+      "price":120,
+      "categoryID":6,
+      "level": "plata",
+      "discount":44.44,
+      "expiration":"01/10/2022",
+      "description":"La eslinga del brazo está hecha de material duradero y transpirable para un flujo de aire y una frescura máximos. La abrazadera de soporte con columnas se ajusta estrechamente al antebrazo y la sostiene cómodamente; La longitud ajustable le permite ajustar la situación hasta que más le convenga.",
+      "stock": 8,
+      "code":"600BB7",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/31jnbsqrBkL._.jpg"
     }
   ],
 
@@ -153,7 +166,12 @@
     
     {
       "id": 4,
-      "path": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "path": "https://images-na.ssl-images-amazon.com/images/I/31AhknQ2tNL._.jpg",
+      "saleID": 2
+    },
+    {
+      "id": 15,
+      "path": "https://images-na.ssl-images-amazon.com/images/I/51Iyxw058JL._.jpg",
       "saleID": 2
     },
     {
@@ -205,6 +223,22 @@
       "id":14,
       "path":"https://images-na.ssl-images-amazon.com/images/I/41joydmJtYL._.jpg",
       "saleID":5
+    },
+    {
+      "id":16,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/51%2BQaQ1U-NL._.jpg",
+      "saleID":6
+    },
+    {
+      "id":17,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/51Essmhm2iL._.jpg",
+      "saleID":6
+    },
+    {
+      "id":18,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/516VNHLvVeL._.jpg",
+      "saleID":6
     }
+    
   ]
 }
