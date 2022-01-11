@@ -20,6 +20,13 @@
       "exchanged": true,
       "purchase_date": "10/10/2021",
       "userId": 1
+    },
+    {
+      "id": 3,
+      "saleId": 5,
+      "exchanged": false,
+      "purchase_date": "12/12/2021",
+      "userId": 1
     }
   ],
   "category": [
@@ -57,88 +64,146 @@
   "sale": [
     {
       "id": 1,
-      "name": "RUN GRAPHIC 7/8 TIGHT W",
+      "name": "Nike Air Force 1 '07 Essential",
       "price": 470,
-      "categoryID": 1,
+      "categoryID": 5,
       "level": "plata",
       "discount": 350,
-      "expiration": "04/10/2022",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptas neque dolore quasi explicabo dolorum saepe doloribus reiciendis est odit culpa, quisquam, quam et molestias! Illum dicta repudiandae porro maiores?",
+      "expiration": "04/01/2022",
+      "description": "Let your shoe game shimmer in the Nike Air Force 1 '07 Essential. It takes the classic AF-1 design to the next level with its premium leather upper and iridescent Swoosh.",
       "stock": 5,
       "code": "6FC48A",
-      "image": "/assets/images/nike1.jpg"
+      "image":"https://static.nike.com/a/images/t_PDP_1728_v1/7f0d8790-7309-4d95-96f1-280b2c3e5cf3/air-force-1-07-essential-shoe-BHN3Db.jpg"
     },
 
     {
       "id": 2,
-      "name": "UA ZAP CHARGED PURSUIT 3 SE",
+      "name": 	"John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
       "price": 570,
       "categoryID": 2,
 
       "level": "oro",
       "discount": 448,
       "expiration": "10/10/2022",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptas neque dolore quasi explicabo dolorum saepe doloribus reiciendis est odit culpa, quisquam, quam et molestias! Illum dicta repudiandae porro maiores?",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
       "stock": 10,
       "code": "6FC4A1",
-      "image":"/assets/images/jordan1.jpg"
+      "image":"https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
     },
 
     {
       "id": 3,
-      "name": "UA ZAP CHARGED PURSUIT 4 SE",
+      "name": "Nike Free Metcon 3",
       "price": 470,
       "categoryID": 3,
       "level": "bronce",
       "discount": 350,
       "expiration": "11/10/2022",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia voluptas neque dolore quasi explicabo dolorum saepe doloribus reiciendis est odit culpa, quisquam, quam et molestias! Illum dicta repudiandae porro maiores?",
+      "description": "The Nike Free Metcon 3 combines the flexibility of a Nike Free sole with the flat, wide heel of the Metcon to keep you fast but stable on your feet from weightlifting to speed drills.",
       "stock": 7,
       "code": "6FC4A2",
-      "image":"/assets/images/thighs1.jpg"
+      "image":"https://static.nike.com/a/images/t_PDP_1728_v1/2dbb7f8c-e1ab-4684-a36e-cea5df876111/free-metcon-3-training-shoe-NMfJ2J.jpg"
+    },
+    {
+      "id": 4,
+      "name":"LYDZ-Hairdressing tool,
+      "price":100,
+      "categoryID":2,
+      "level": "bronce",
+      "discount":30.71,
+      "expiration":"12/02/2022",
+      "description":"LYDZ-Hairdressing tool Tijeras de peluquería de Rango Medio de 6.0 Pulgadas, Tijeras Planas + Dientes Corte de Pelo Herramienta de peluquería (Color : Silver)",
+      "stock": 10,
+      "code":"6DDEA7",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/51Nr3SvyrNL._.jpg"
+    },
+    {
+      "id":5,
+      "name": "Ayudas dinamicas - Caminador de aluminio mini",
+      "price":1300,
+      "categoryID":6,
+      "level": "plata",
+      "discount":793,
+      "expiration":"01/06/2022",
+      "description":"El andador para ancianos Mini Roller es un andador fabricado en aluminio, sus ruedas delanteras y sus tacos traseros hacen de él un andador para interiores pero que gracias a su reducido peso puede ser utilizado para pequeños desplazamientos por la calle.",
+      "stock": 8,
+      "code":"6DDBB7",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/41joydmJtYL._.jpg"
+      
     }
   ],
 
   "image": [
     {
       "id": 1,
-      "path": "/assets/images/nike1.jpg",
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/20488f52-3686-476c-b4b8-0ca430c34a05/air-force-1-07-essential-shoe-BHN3Db.jpg",
       "saleID": 1
     },
     {
       "id": 2,
-      "path": "/assets/images/nike2.jpg",
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/20488f52-3686-476c-b4b8-0ca430c34a05/air-force-1-07-essential-shoe-BHN3Db.jpg",
       "saleID": 1
     },
     {
       "id": 3,
-      "path": "/assets/images/nike3.jpg",
+      "path":"https://static.nike.com/a/images/t_PDP_1728_v1/20488f52-3686-476c-b4b8-0ca430c34a05/air-force-1-07-essential-shoe-BHN3Db.jpg",
       "saleID": 1
     },
+    
     {
       "id": 4,
-      "path": "/assets/images/jordan1.jpg",
+      "path": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
       "saleID": 2
     },
     {
       "id": 5,
-      "path": "/assets/images/jordan2.jpg",
-      "saleID": 2
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/b18a977a-4e36-49e9-92ff-fb1ed5a2691c/free-metcon-3-training-shoe-NMfJ2J.jpg",
+      "saleID": 3
     },
     {
       "id": 6,
-      "path": "/assets/images/thighs1.jpg",
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f7d5a894-4d81-422d-a155-e843f9f1e0e3/free-metcon-3-training-shoe-NMfJ2J.jpg" ,
       "saleID": 3
     },
     {
       "id": 7,
-      "path": "/assets/images/thighs2.jpg",
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/6b96b3ff-1586-46c7-9f97-35ae6cbd05fd/free-metcon-3-training-shoe-NMfJ2J.jpg",
       "saleID": 3
     },
     {
       "id": 8,
-      "path": "/assets/images/thighs3.jpg",
+      "path":"https://static.nike.com/a/images/t_PDP_1728_v1/bb4ed098-c148-45d9-b4f6-a0a72c454886/free-metcon-3-training-shoe-NMfJ2J.jpg" ,
       "saleID": 3
+    },
+    {
+      "id":9,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/51XMgJYWCVL._.jpg"
+      "saleID":4
+    },
+    {
+      "id":10,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/51sYBwmyvZL._.jpg"
+      "saleID":4
+    },
+    {
+      "id":11,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/51tGD6WlpoL._.jpg"
+      "saleID":4
+    },
+    {
+      "id":12,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/51uAHYXC-iL._.jpg"
+      "saleID":4
+    },
+    {
+      "id":13,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/314MKBiXwhL._.jpg"
+      "saleID":5
+    },
+    {
+      "id":14,
+      "path":"https://images-na.ssl-images-amazon.com/images/I/41joydmJtYL._.jpg"
+      "saleID":5
     }
   ]
 }
