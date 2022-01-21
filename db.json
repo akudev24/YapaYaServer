@@ -73,6 +73,7 @@
       "expiration": "04/01/2022",
       "description": "Let your shoe game shimmer in the Nike Air Force 1 '07 Essential. It takes the classic AF-1 design to the next level with its premium leather upper and iridescent Swoosh.",
       "stock": 5,
+      "cityID":1,
       "code": "6FC48A",
       "image":"https://static.nike.com/a/images/t_PDP_1728_v1/7f0d8790-7309-4d95-96f1-280b2c3e5cf3/air-force-1-07-essential-shoe-BHN3Db.jpg"
     },
@@ -82,12 +83,13 @@
       "name":"Esmaltes Andreia Andreia Professional NutriColor",
       "price": 70,
       "categoryID": 2,
-
+      
       "level": "oro",
       "discount": 44,
       "expiration": "10/10/2022",
       "description": "Permeable al vapor / sin formaldehído, tolueno, DBP, resina de formaldehído, alcanfor, xileno, tosilamida de etilo, parabenos y acetona Cómo aplicar: 1. Limpie las uñas con limpiador. 2. Aplique 2 capas de NutriColor.",
       "stock": 10,
+      "cityID":1,
       "code": "6FC4A1",
       "image":"https://images-na.ssl-images-amazon.com/images/I/31p3qa8kAfL._.jpg"
     },
@@ -102,6 +104,7 @@
       "expiration": "11/10/2022",
       "description": "The Nike Free Metcon 3 combines the flexibility of a Nike Free sole with the flat, wide heel of the Metcon to keep you fast but stable on your feet from weightlifting to speed drills.",
       "stock": 7,
+      "cityID":2,
       "code": "6FC4A2",
       "image":"https://static.nike.com/a/images/t_PDP_1728_v1/2dbb7f8c-e1ab-4684-a36e-cea5df876111/free-metcon-3-training-shoe-NMfJ2J.jpg"
     },
@@ -115,6 +118,7 @@
       "expiration":"12/02/2022",
       "description":"LYDZ-Hairdressing tool Tijeras de peluquería de Rango Medio de 6.0 Pulgadas, Tijeras Planas + Dientes Corte de Pelo Herramienta de peluquería (Color : Silver)",
       "stock": 10,
+      "cityID":2,
       "code":"6DDEA7",
       "image":"https://images-na.ssl-images-amazon.com/images/I/51Nr3SvyrNL._.jpg"
     },
@@ -128,6 +132,7 @@
       "expiration":"01/06/2022",
       "description":"El andador para ancianos Mini Roller es un andador fabricado en aluminio, sus ruedas delanteras y sus tacos traseros hacen de él un andador para interiores pero que gracias a su reducido peso puede ser utilizado para pequeños desplazamientos por la calle.",
       "stock": 8,
+      "cityID":1,
       "code":"6DDBB7",
       "image":"https://images-na.ssl-images-amazon.com/images/I/41joydmJtYL._.jpg"
       
@@ -142,6 +147,7 @@
       "expiration":"01/10/2022",
       "description":"La eslinga del brazo está hecha de material duradero y transpirable para un flujo de aire y una frescura máximos. La abrazadera de soporte con columnas se ajusta estrechamente al antebrazo y la sostiene cómodamente; La longitud ajustable le permite ajustar la situación hasta que más le convenga.",
       "stock": 8,
+      "cityID":2,
       "code":"600BB7",
       "image":"https://images-na.ssl-images-amazon.com/images/I/31jnbsqrBkL._.jpg"
     }
